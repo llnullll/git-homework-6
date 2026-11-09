@@ -1,0 +1,9 @@
+﻿bin/
+obj/
+packages/
+.vs/
+*.tmp
+.env
+.env.*
+!.env.example
+*.pfx
